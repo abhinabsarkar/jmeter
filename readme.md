@@ -25,7 +25,7 @@ The actual number of transactions per second depends on your application respons
 
 * Listeners - Listeners show the results of the test execution. They can show results in a different format such as a tree, table, graph or log file.
 
-An example of the Jmeter test plan can be found [here](/src)
+An example of the Jmeter test plan can be found [here](src)
 
 Run the Jmeter script using the cli as shown below.
 
